@@ -3,6 +3,9 @@
 
 Este projeto representa um template para o desenvolvimento de aplicações web fullstack modernas utilizando **Spring Boot** no backend e **Next.js** no frontend. Ele foi criado como base para aplicações que utilizam boas práticas de engenharia de software, escalabilidade e integração entre Java e TypeScript.
 
+
+modificação para teste de commit. 
+
 ## **Visão Geral**
 
 A aplicação é dividida em dois componentes principais:
