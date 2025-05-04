@@ -96,3 +96,4 @@ O frontend estará disponível em `http://localhost:3000` por padrão.
 - [Documentação do Next.js](https://nextjs.org/docs)
 
 Com isso, o modelo está pronto para sua evolução. 🚀 Se houver dúvidas, consulte a documentação ou entre em contato com seu instrutor, ou a equipe!
+
