@@ -11,7 +11,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/v1/usuarios")
-@CrossOrigin(origins = "http://localhost:3000") // Permite acesso do frontend (Next.js, etc)
+@CrossOrigin(origins = "http://localhost:3001") // Permite acesso do frontend (Next.js, etc)
 public class UsuarioController {
 
     private final UsuarioService service;

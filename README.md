@@ -92,7 +92,7 @@ Por padrão, a API será exposta na porta `http://localhost:8080`.
 O frontend estará disponível em `http://localhost:3000` por padrão.
 
 ## **Referências**
-- [Documentação Oficial do Spring Boot](https://spring.io/projects/spring-boot)
+- [Documentação Oficial do Spring ![favicon.ico](upf-topicos/src/app/favicon.ico)Boot](https://spring.io/projects/spring-boot)
 - [Documentação do Next.js](https://nextjs.org/docs)
 
 Com isso, o modelo está pronto para sua evolução. 🚀 Se houver dúvidas, consulte a documentação ou entre em contato com seu instrutor, ou a equipe!

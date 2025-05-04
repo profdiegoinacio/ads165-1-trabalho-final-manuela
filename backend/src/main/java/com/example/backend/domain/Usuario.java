@@ -1,5 +1,6 @@
 package com.example.backend.domain;
 
+import com.example.backend.domain.TipoUsuario;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotNull;
